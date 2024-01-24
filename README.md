@@ -19,6 +19,8 @@ As of Janurary 2024, I am a senior in high school.
 	EXOSKY Planets Plugin Community : https://discord.gg/NnndKNQwpH -
 	My ArtStation (Basically Portfolio) : https://www.artstation.com/collinblumenauer -
 	My YouTube : https://www.youtube.com/@collininmysternum -
+ 	My Portfolio : https://mrdavenport.my.canva.site/collininmysternumwebsite
+  	Work-In-Progress EXOSKY Documentation : https://collininmysternum.gitbook.io/exosky-planets-documentation/ -
 
 ### How to Reach Me
 	Add me on Discord : collininmysternum
