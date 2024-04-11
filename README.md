@@ -12,6 +12,10 @@
 	Add me on Discord : collininmysternum
 	I am always available and willing to answer any questions.
 
+### [🪐EXOSKY Planets Plugin⭐]
+        EXOSKY Planets is an addon for Unreal Engine 5 that allows full scale GPU driven planets in realtime across
+	many platforms. The plugin is currently in beta, but here are some screenshots.
+![image](https://github.com/CollinInMySternum/CollinInMySternum/assets/92476364/6bc59212-7d8c-4592-90be-c08fe53eaf9e)
 
 ![ScreenShot02110](https://github.com/CollinInMySternum/CollinInMySternum/assets/92476364/c625a5b3-111f-4672-8415-eac1e2f0997e)
 
