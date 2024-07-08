@@ -1,3 +1,8 @@
+<style>
+div.lp-pom-root .lp-pom-text a {
+        text-decoration: none;
+
+
 <h1 align="center"> Hello! I am CollinInMySternum. </h1>
 
 <h3 align="left"> I am a hobbyist general engineer, doing work with graphics, software, games, and web. I also like to call myself an artist as I do photography, photo editing, video editing, graphic design, and 3D modeling. </h3>
@@ -21,9 +26,9 @@
 	<img width="12" />
 	<a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="photoshop logo"  /> </a>
 	<img width="12" />
-	<img src="https://skillicons.dev/icons?i=premiere" height="40" alt="premiere logo"  />
+	<a href="https://www.adobe.com/products/premiere.html"><img src="https://skillicons.dev/icons?i=premiere" height="40" alt="premiere logo"  /> </a>
 	<img width="12" />
-	<img src="https://skillicons.dev/icons?i=illustrator" height="40" alt="illustrator logo"  />
+	<a href="https://www.adobe.com/products/illustrator.html"><img src="https://skillicons.dev/icons?i=illustrator" height="40" alt="illustrator logo"  /> </a>
 	<img width="12" />
 </div>
 
@@ -65,3 +70,5 @@
 CollinInMySternum/CollinInMySternum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+}
+</style>
