@@ -4,7 +4,7 @@
 
 <h2 align="center"> I am the engineer and creator of the [🪐EXOSKY Planets Plugin⭐] <img src=https://img.shields.io/static/v1?message=EXOSKYPLUGIN(s)&logo=discord&label=Discord&color=5865F2&logoColor=white&labelColor=&style=flat&link=https://discord.gg/3NMHUyHpdM /> </h2>
 <h3 align="left"> ExoSky Planets is a plugin for Unreal Engine 5 that allows artists to create full-scale, real-time, high-precision planets for virtual media. </h3>
-<img src="https://github.com/CollinInMySternum/CollinInMySternum/assets/92476364/cc6e3e5b-b096-4e64-b27d-612082446943"> </img>
+<a href="https://solarsystemsoftworks.gumroad.com/l/ExoskyPlanets"><img src="https://github.com/CollinInMySternum/CollinInMySternum/assets/92476364/cc6e3e5b-b096-4e64-b27d-612082446943"> </img> </a>
 
 <h2 align="center"> Some of the tools and languages I use </h2>
 
