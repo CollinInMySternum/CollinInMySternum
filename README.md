@@ -13,7 +13,7 @@
 	<img width="12" />
 	<a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  /> </a>
 	<img width="12" />
-	<a href="https://blender.com/"><img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  /> </a>
+	<a href="https://www.blender.org/"><img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  /> </a>
 	<img width="12" />
 	<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  /> </a>
 	<img width="12" />
