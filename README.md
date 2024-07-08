@@ -1,5 +1,10 @@
 <h1 align="center"> Hello! I am CollinInMySternum. </h1>
+
 <h3 align="center"> I am a hobbyist general engineer, doing work with graphics, software, games, and web. I also like to call myself an artist, as I do photography, photo editing, video editing, graphic design, UI/UX design, and 3D modeling. </h3>
+
+<h2 align="center"> I am the engineer and creator of the [🪐EXOSKY Planets Plugin⭐] <img src=https://img.shields.io/static/v1?message=EXOSKYPLUGIN(s)&logo=discord&label=Discord&color=5865F2&logoColor=white&labelColor=&style=flat&link=https://discord.gg/3NMHUyHpdM /> </h2>
+<h3 align="left"> ExoSky Planets is a plugin for Unreal Engine 5 that allows artists to create full-scale, real-time, high-precision planets for virtual media. </h3>
+<img src="https://github.com/CollinInMySternum/CollinInMySternum/assets/92476364/cc6e3e5b-b096-4e64-b27d-612082446943"> </img>
 
 <h2 align="center"> Some of the tools and languages I use </h2>
 
@@ -54,22 +59,6 @@
 	<img src=https://img.shields.io/static/v1?message=CollinInMySternum&logo=discord&label=Discord&color=5865F2&logoColor=white&labelColor=&style=for-the-badge&link=https%3A%2F%2Fdiscord.com%2Fusers%2F503874266174062594 />
 	<img src=https://img.shields.io/static/v1?message=EXOSKYPLUGIN(s)&logo=discord&label=Discord&color=5865F2&logoColor=white&labelColor=&style=for-the-badge&link=https://discord.gg/3NMHUyHpdM />
 </div>
-
-
-<h2 align="center"> I am the engineer and creator of the [🪐EXOSKY Planets Plugin⭐] </h2>
-<h3 align="center"> 
-	EXOSKY Planets is a plugin for Unreal Engine 5 that allows artists to create full-scale, real-time, interactive planets using shaders.
-</h3>
-<img src=https://github.com/CollinInMySternum/CollinInMySternum/assets/92476364/3020bb17-3cba-431b-a404-1f039fe992f1) />
-
-<img src=https://github.com/CollinInMySternum/CollinInMySternum/assets/92476364/c625a5b3-111f-4672-8415-eac1e2f0997e />
-
-<img src=https://github.com/CollinInMySternum/CollinInMySternum/assets/92476364/db5579fd-f0ef-4ccd-b5de-15ae5502a25f />
-
-<img src=https://github.com/CollinInMySternum/CollinInMySternum/assets/92476364/e36f2b3f-cb02-4e85-aea1-7c4e7e23d0fd />
-
-<img src=https://github.com/CollinInMySternum/CollinInMySternum/assets/92476364/04c389ea-626b-4261-9abe-4aa818c579eb />
-
 
 
 <!---
