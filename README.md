@@ -1,8 +1,3 @@
-<style>
-div.lp-pom-root .lp-pom-text a {
-        text-decoration: none;
-
-
 <h1 align="center"> Hello! I am CollinInMySternum. </h1>
 
 <h3 align="left"> I am a hobbyist general engineer, doing work with graphics, software, games, and web. I also like to call myself an artist as I do photography, photo editing, video editing, graphic design, and 3D modeling. </h3>
