@@ -47,7 +47,6 @@
 <h2 align="center"> My Work </h2>
 
 <div align="center">
-	<img src=https://img.shields.io/static/v1?message=CollinInMySternum&logo=discord&label=Discord&color=5865F2&logoColor=white&labelColor=&style=for-the-badge&link=https%3A%2F%2Fdiscord.com%2Fusers%2F503874266174062594 />
 	<img src=https://img.shields.io/static/v1?message=CollinInMySternum&logo=youtube&label=YouTube&color=FF0000&logoColor=white&labelColor=&style=for-the-badge&link=https://www.youtube.com/@collininmysternum />
 	<img src=https://img.shields.io/static/v1?message=CollinBlumenauer&logo=artstation&label=ArtStation&color=00A2ff&logoColor=white&labelColor=&style=for-the-badge&link=https://www.artstation.com/collinblumenauer />
 	<img src=https://img.shields.io/static/v1?message=Portfolio&logo=canva&label=Canva&color=0088cc&logoColor=white&labelColor=&style=for-the-badge&link=https://www.artstation.com/collinblumenauer />
