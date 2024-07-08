@@ -57,6 +57,7 @@
 <div align="center">
 	<a href="https://discord.com/users/503874266174062594"> <img src=https://img.shields.io/static/v1?message=CollinInMySternum&logo=discord&label=Discord&color=5865F2&logoColor=white&labelColor=&style=for-the-badge&link=https%3A%2F%2Fdiscord.com%2Fusers%2F503874266174062594 /> </a>
 	<a href="https://discord.gg/3NMHUyHpdM"><img src=https://img.shields.io/static/v1?message=EXOSKYPLUGIN(s)&logo=discord&label=Discord&color=5865F2&logoColor=white&labelColor=&style=for-the-badge&link=https://discord.gg/3NMHUyHpdM /> </a>
+	<a href="https://www.patreon.com/exoskyplugins"><img src=https://img.shields.io/static/v1?message=CollinInMySternum&logo=patreon&label=Patreon&color=f96854&logoColor=white&labelColor=&style=for-the-badge&link=https://www.patreon.com/exoskyplugins /> </a>
 </div>
 
 
