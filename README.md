@@ -2,7 +2,7 @@
 
 <h3 align="left"> I am a hobbyist general engineer, doing work with graphics, software, games, and web. I also like to call myself an artist as I do photography, photo editing, video editing, graphic design, and 3D modeling. </h3>
 
-<h2 align="center"> I am the engineer and creator of the [🪐EXOSKY Planets Plugin⭐] <img src=https://img.shields.io/static/v1?message=EXOSKYPLUGIN(s)&logo=discord&label=Discord&color=5865F2&logoColor=white&labelColor=&style=flat&link=https://discord.gg/3NMHUyHpdM /> </h2>
+<h2 align="center"> I am the engineer and creator of the [🪐EXOSKY Planets Plugin⭐] <a href="https://discord.gg/3NMHUyHpdM"><img src=https://img.shields.io/static/v1?message=EXOSKYPLUGIN(s)&logo=discord&label=Discord&color=5865F2&logoColor=white&labelColor=&style=flat&link=https://discord.gg/3NMHUyHpdM /> </a> </h2>
 <h3 align="left"> ExoSky Planets is a plugin for Unreal Engine 5 that allows artists to create full-scale, real-time, high-precision planets for virtual media. </h3>
 <a href="https://solarsystemsoftworks.gumroad.com/l/ExoskyPlanets"><img src="https://github.com/CollinInMySternum/CollinInMySternum/assets/92476364/cc6e3e5b-b096-4e64-b27d-612082446943"> </img> </a>
 
@@ -28,9 +28,9 @@
 </div>
 
 <div align="center">
-	<img src="https://skillicons.dev/icons?i=cpp" height="40" alt="unreal logo"  />
+	<img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
 	<img width="12" />
-	<img src="https://skillicons.dev/icons?i=cs" height="40" alt="unity logo"  />
+	<img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs logo"  />
 	<img width="12" />
 	<img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"  />
 	<img width="12" />
@@ -38,9 +38,9 @@
 	<img width="12" />
 	<img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
 	<img width="12" />
-	<img src="https://skillicons.dev/icons?i=python" height="40" alt="blender logo"  />
+	<img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
 	<img width="12" />
-	<img src="https://skillicons.dev/icons?i=arduino" height="40" alt="vscode logo"  />
+	<img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
 	<img width="12" />
 </div>
 
