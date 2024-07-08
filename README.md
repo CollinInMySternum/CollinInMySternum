@@ -9,7 +9,7 @@
 <h2 align="center"> Some of the tools and languages I use </h2>
 
 <div align="center">
-	=<img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unreal logo"  />
+	<img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unreal logo"  />
 	<img width="12" />
 	<img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
 	<img width="12" />
@@ -47,16 +47,16 @@
 <h2 align="center"> My Work </h2>
 
 <div align="center">
-	<img src=https://img.shields.io/static/v1?message=CollinInMySternum&logo=youtube&label=YouTube&color=FF0000&logoColor=white&labelColor=&style=for-the-badge&link=https://www.youtube.com/@collininmysternum />
-	<img src=https://img.shields.io/static/v1?message=CollinBlumenauer&logo=artstation&label=ArtStation&color=00A2ff&logoColor=white&labelColor=&style=for-the-badge&link=https://www.artstation.com/collinblumenauer />
-	<img src=https://img.shields.io/static/v1?message=Portfolio&logo=canva&label=Canva&color=0088cc&logoColor=white&labelColor=&style=for-the-badge&link=https://www.artstation.com/collinblumenauer />
+	<a href="https://www.youtube.com/@collininmysternum"><img src=https://img.shields.io/static/v1?message=CollinInMySternum&logo=youtube&label=YouTube&color=FF0000&logoColor=white&labelColor=&style=for-the-badge&link=https://www.youtube.com/@collininmysternum /> </a>
+	<a href="https://www.artstation.com/collinblumenauer"><img src=https://img.shields.io/static/v1?message=CollinBlumenauer&logo=artstation&label=ArtStation&color=00A2ff&logoColor=white&labelColor=&style=for-the-badge&link=https://www.artstation.com/collinblumenauer /> </a>
+	<a href="https://mrdavenport.my.canva.site/collininmysternumwebsite"><img src=https://img.shields.io/static/v1?message=Portfolio&logo=canva&label=Canva&color=0088cc&logoColor=white&labelColor=&style=for-the-badge&link=https://mrdavenport.my.canva.site/collininmysternumwebsite /> </a>
 </div>
 
 <h2 align="center"> How to Reach Me </h2>
 
 <div align="center">
-	<img src=https://img.shields.io/static/v1?message=CollinInMySternum&logo=discord&label=Discord&color=5865F2&logoColor=white&labelColor=&style=for-the-badge&link=https%3A%2F%2Fdiscord.com%2Fusers%2F503874266174062594 />
-	<img src=https://img.shields.io/static/v1?message=EXOSKYPLUGIN(s)&logo=discord&label=Discord&color=5865F2&logoColor=white&labelColor=&style=for-the-badge&link=https://discord.gg/3NMHUyHpdM />
+	<a href="https://discord.com/users/503874266174062594"> <img src=https://img.shields.io/static/v1?message=CollinInMySternum&logo=discord&label=Discord&color=5865F2&logoColor=white&labelColor=&style=for-the-badge&link=https%3A%2F%2Fdiscord.com%2Fusers%2F503874266174062594 /> </a>
+	<a href="https://discord.gg/3NMHUyHpdM"><img src=https://img.shields.io/static/v1?message=EXOSKYPLUGIN(s)&logo=discord&label=Discord&color=5865F2&logoColor=white&labelColor=&style=for-the-badge&link=https://discord.gg/3NMHUyHpdM /> </a>
 </div>
 
 
