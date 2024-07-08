@@ -1,6 +1,6 @@
 <h1 align="center"> Hello! I am CollinInMySternum. </h1>
 
-<h3 align="center"> I am a hobbyist general engineer, doing work with graphics, software, games, and web. I also like to call myself an artist, as I do photography, photo editing, video editing, graphic design, UI/UX design, and 3D modeling. </h3>
+<h3 align="left"> I am a hobbyist general engineer, doing work with graphics, software, games, and web. I also like to call myself an artist, as I do photography, photo editing, video editing, graphic design, UI/UX design, and 3D modeling. </h3>
 
 <h2 align="center"> I am the engineer and creator of the [🪐EXOSKY Planets Plugin⭐] <img src=https://img.shields.io/static/v1?message=EXOSKYPLUGIN(s)&logo=discord&label=Discord&color=5865F2&logoColor=white&labelColor=&style=flat&link=https://discord.gg/3NMHUyHpdM /> </h2>
 <h3 align="left"> ExoSky Planets is a plugin for Unreal Engine 5 that allows artists to create full-scale, real-time, high-precision planets for virtual media. </h3>
