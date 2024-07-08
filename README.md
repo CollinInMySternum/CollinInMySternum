@@ -1,3 +1,23 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="github-markdown.css">
+<style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+
+<article class="markdown-body">
+
 <h1 align="center"> Hello! I am CollinInMySternum. </h1>
 
 <h3 align="left"> I am a hobbyist general engineer, doing work with graphics, software, games, and web. I also like to call myself an artist as I do photography, photo editing, video editing, graphic design, and 3D modeling. </h3>
@@ -9,17 +29,17 @@
 <h2 align="center"> Some of the tools and languages I use </h2>
 
 <div align="center">
-	<img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unreal logo"  />
+	<a href="https://www.unrealengine.com/"><img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unreal logo"  /> </a>
 	<img width="12" />
-	<img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+	<a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  /> </a>
 	<img width="12" />
-	<img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
+	<a href="https://blender.com/"><img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  /> </a>
 	<img width="12" />
-	<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+	<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  /> </a>
 	<img width="12" />
-	<img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="vs logo"  />
+	<a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="vs logo"  /> </a>
 	<img width="12" />
-	<img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="photoshop logo"  />
+	<a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="photoshop logo"  /> </a>
 	<img width="12" />
 	<img src="https://skillicons.dev/icons?i=premiere" height="40" alt="premiere logo"  />
 	<img width="12" />
@@ -59,6 +79,8 @@
 	<a href="https://discord.gg/3NMHUyHpdM"><img src=https://img.shields.io/static/v1?message=EXOSKYPLUGIN(s)&logo=discord&label=Discord&color=5865F2&logoColor=white&labelColor=&style=for-the-badge&link=https://discord.gg/3NMHUyHpdM /> </a>
 	<a href="https://www.patreon.com/exoskyplugins"><img src=https://img.shields.io/static/v1?message=CollinInMySternum&logo=patreon&label=Patreon&color=f96854&logoColor=white&labelColor=&style=for-the-badge&link=https://www.patreon.com/exoskyplugins /> </a>
 </div>
+
+</article>
 
 
 <!---
