@@ -2,9 +2,9 @@
 
 <h3 align="left"> I am a hobbyist general engineer, doing work with graphics, software, games, and web. I also like to call myself an artist as I do photography, photo editing, video editing, graphic design, and 3D modeling. </h3>
 
-<h2 align="center"> I am the engineer and creator of the [🪐EXOSKY Planets Plugin⭐] <a href="https://discord.gg/3NMHUyHpdM"><img src=https://img.shields.io/static/v1?message=EXOSKYPLUGIN(s)&logo=discord&label=Discord&color=5865F2&logoColor=white&labelColor=&style=flat&link=https://discord.gg/3NMHUyHpdM /> </a> </h2>
+<h2 align="center"> I am the engineer and creator of the <a href="https://discord.gg/3NMHUyHpdM"> [🪐EXOSKY Planets Plugin⭐] </a>
 <h3 align="left"> ExoSky Planets is a plugin for Unreal Engine 5 that allows artists to create full-scale, real-time, high-precision planets for virtual media. </h3>
-<a href="https://solarsystemsoftworks.gumroad.com/l/ExoskyPlanets"><img src="https://github.com/CollinInMySternum/CollinInMySternum/assets/92476364/cc6e3e5b-b096-4e64-b27d-612082446943"> </img> </a>
+<a href="https://www.exoskyplanets.com/"><img src="https://github.com/CollinInMySternum/CollinInMySternum/assets/92476364/cc6e3e5b-b096-4e64-b27d-612082446943"> </img> </a>
 
 <h2 align="center"> Some of the tools and languages I use </h2>
 
