@@ -2,7 +2,7 @@
 
 <h3 align="left"> I am a hobbyist general engineer, doing work with graphics, software, games, and web. I also like to call myself an artist as I do photography, photo editing, video editing, graphic design, and 3D modeling. </h3>
 
-<h2 align="center"> I am the engineer and creator of the <a href="https://discord.gg/3NMHUyHpdM"> [🪐EXOSKY Planets Plugin⭐] </a>
+<h2 align="center"> I am the engineer and creator of the <a href="https://www.exoskyplanets.com/"> [🪐EXOSKY Planets Plugin⭐] </a>
 <h3 align="left"> ExoSky Planets is a plugin for Unreal Engine 5 that allows artists to create full-scale, real-time, high-precision planets for virtual media. </h3>
 <a href="https://www.exoskyplanets.com/"><img src="https://github.com/CollinInMySternum/CollinInMySternum/assets/92476364/cc6e3e5b-b096-4e64-b27d-612082446943"> </img> </a>
 
