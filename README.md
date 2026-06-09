@@ -9,50 +9,31 @@
 <h2 align="center"> Some of the tools and languages I use </h2>
 
 <div align="center">
-	<img width="12" />
-	<a href="https://www.unrealengine.com/"><img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unreal logo"  /> </a>
-	<img width="12" />
-	<a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  /> </a>
-	<img width="12" />
-	<a href="https://godot.com/"><img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  /> </a>
-	<img width="12" />
-	<a href="https://www.blender.org/"><img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  /> </a>
-	<img width="12" />
-	<a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="photoshop logo"  /> </a>
-	<img width="12" />
-	<a href="https://www.adobe.com/products/premiere.html"><img src="https://skillicons.dev/icons?i=premiere" height="40" alt="premiere logo"  /> </a>
-	<img width="12" />
-	<a href="https://www.adobe.com/products/illustrator.html"><img src="https://skillicons.dev/icons?i=illustrator" height="40" alt="illustrator logo"  /> </a>
+	<a href="https://www.unrealengine.com/"><img src="https://skillicons.dev/icons?i=unreal" alt="unreal logo"  /> </a>
+	<a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" alt="unity logo"  /> </a>
+	<a href="https://godot.com/"><img src="https://skillicons.dev/icons?i=godot" alt="godot logo"  /> </a>
+	<a href="https://www.blender.org/"><img src="https://skillicons.dev/icons?i=blender" alt="blender logo"  /> </a>
+	<a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop logo"  /> </a>
+	<a href="https://www.adobe.com/products/premiere.html"><img src="https://skillicons.dev/icons?i=premiere" alt="premiere logo"  /> </a>
+	<a href="https://www.adobe.com/products/illustrator.html"><img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator logo"  /> </a>
 </div>
 
 <div align="center">
-	<img width="12" />
-	<img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
-	<img width="12" />
-	<img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs logo"  />
-	<img width="12" />
-	<img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"  />
-	<img width="12" />
-	<img src="https://skillicons.dev/icons?i=ts" height="40" alt="ts logo"  />
-	<img width="12" />
-	<img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
-	<img width="12" />
-	<img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
+	<img src="https://skillicons.dev/icons?i=cpp" alt="cpp logo"  />
+	<img src="https://skillicons.dev/icons?i=cs" alt="cs logo"  />
+	<img src="https://skillicons.dev/icons?i=js" alt="js logo"  />
+	<img src="https://skillicons.dev/icons?i=ts" alt="ts logo"  />
+	<img src="https://skillicons.dev/icons?i=python" alt="python logo"  />
+	<img src="https://skillicons.dev/icons?i=arduino" alt="arduino logo"  />
 </div>
 
 <div align="center">
-	<img width="12" />
-	<img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-	<img width="12" />
-	<img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-	<img width="12" />
-	<img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
-	<img width="12" />
-	<img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
-	<img width="12" />
-	<img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
-	<img width="12" />
-	<img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+	<img src="https://skillicons.dev/icons?i=react" alt="react logo"  />
+	<img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs logo"  />
+	<img src="https://skillicons.dev/icons?i=prisma" alt="prisma logo"  />
+	<img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind logo"  />
+	<img src="https://skillicons.dev/icons?i=html" alt="html logo"  />
+	<img src="https://skillicons.dev/icons?i=css" alt="css logo"  />
 </div>
 
 <h2 align="center"> My Work </h2>
