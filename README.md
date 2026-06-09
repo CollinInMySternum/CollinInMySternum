@@ -9,39 +9,50 @@
 <h2 align="center"> Some of the tools and languages I use </h2>
 
 <div align="center">
+	<img width="12" />
 	<a href="https://www.unrealengine.com/"><img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unreal logo"  /> </a>
 	<img width="12" />
 	<a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  /> </a>
 	<img width="12" />
+	<a href="https://godot.com/"><img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  /> </a>
+	<img width="12" />
 	<a href="https://www.blender.org/"><img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  /> </a>
-	<img width="12" />
-	<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  /> </a>
-	<img width="12" />
-	<a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="vs logo"  /> </a>
 	<img width="12" />
 	<a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="photoshop logo"  /> </a>
 	<img width="12" />
 	<a href="https://www.adobe.com/products/premiere.html"><img src="https://skillicons.dev/icons?i=premiere" height="40" alt="premiere logo"  /> </a>
 	<img width="12" />
 	<a href="https://www.adobe.com/products/illustrator.html"><img src="https://skillicons.dev/icons?i=illustrator" height="40" alt="illustrator logo"  /> </a>
-	<img width="12" />
 </div>
 
 <div align="center">
+	<img width="12" />
 	<img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
 	<img width="12" />
 	<img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs logo"  />
 	<img width="12" />
 	<img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"  />
 	<img width="12" />
-	<img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
-	<img width="12" />
-	<img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+	<img src="https://skillicons.dev/icons?i=ts" height="40" alt="ts logo"  />
 	<img width="12" />
 	<img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
 	<img width="12" />
 	<img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
+</div>
+
+<div align="center">
 	<img width="12" />
+	<img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+	<img width="12" />
+	<img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+	<img width="12" />
+	<img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+	<img width="12" />
+	<img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
+	<img width="12" />
+	<img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
+	<img width="12" />
+	<img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
 </div>
 
 <h2 align="center"> My Work </h2>
@@ -57,7 +68,6 @@
 <div align="center">
 	<a href="https://discord.com/users/503874266174062594"> <img src=https://img.shields.io/static/v1?message=CollinInMySternum&logo=discord&label=Discord&color=5865F2&logoColor=white&labelColor=&style=for-the-badge&link=https%3A%2F%2Fdiscord.com%2Fusers%2F503874266174062594 /> </a>
 	<a href="https://discord.gg/3NMHUyHpdM"><img src=https://img.shields.io/static/v1?message=EXOSKYPLUGIN(s)&logo=discord&label=Discord&color=5865F2&logoColor=white&labelColor=&style=for-the-badge&link=https://discord.gg/3NMHUyHpdM /> </a>
-	<a href="https://www.patreon.com/exoskyplugins"><img src=https://img.shields.io/static/v1?message=CollinInMySternum&logo=patreon&label=Patreon&color=f96854&logoColor=white&labelColor=&style=for-the-badge&link=https://www.patreon.com/exoskyplugins /> </a>
 </div>
 
 
